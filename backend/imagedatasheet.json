@@ -1,0 +1,862 @@
+
+[
+    {
+      "Model Name": "KVG60C",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/image3.jpg?ts=8dbbcb01673a200&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1ZrW5X_4hldD6Ew1-o8wiLNZFwg9BcvpW/view"
+          } ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }    ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Vacuum Gripper"
+          }        
+      ]
+     
+     
+    },
+    {
+      "Model Name": "KVGL-CJ",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/kvgl-cj.jpg?ts=8dbbcafa533ef00&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1h61Oo5LUrRuoIpfdHosK8vOW6DnrgtU8/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }  ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Layer Gripper"
+          }          
+      ]
+     },
+     {
+      "Model Name": "KCS",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/kcs_datasheet.jpg?ts=8dbbcb0681c2c80&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1XyC3RdUSt49xO_pwN95sSljesFF7USzk/view"
+          }   ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }  ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Small Gripper"
+          }              
+      ]
+     },
+     {
+      "Model Name": "KHVG",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/khvg-45-15.jpg?ts=8dbbcafa402c200&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1uwrP1Plo2hnXcPnmYVlLJ5IbCQ8oEadA/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Vacuum Gripper" 
+          }        
+      ]
+     },
+     {
+      "Model Name": "KSG",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/ksg.jpg?ts=8dbbcafffcd4b00&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1XCn5Z2pctz_qKP2Llrmoayk-Pl95xQ3R/view"
+          }   ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }        ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Sack Gripper"
+          }        
+      ]
+     },
+     {
+      "Model Name": "KSL",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/singel_shot_ksl.240.120.n241.fr15.s1.1sth.50.534.jpeg?ts=8dbbcb2fa253480&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1SPIr2n4Co2P20XBfOxfTvgnQMD7OOBUP/view"
+          } ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }  ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Flexi Gripper"
+          }               
+      ]
+     },
+     {
+      "Model Name": "KBC",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/kbc.jpg?ts=8dbbcafff34b480&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1GH0tjD_r_5ZswJ6VzAUjALs6h6o8QpZh/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }        ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Bag Cup Gripper"
+          }         
+      ]
+     },
+     {
+      "Model Name": "PGL Plus P 25",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_dlfaeks9bt1c502fcarsl24e6k/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1uYl3wvfRsYQWSv1eVg7JMvfDWmBQOCfD/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }       ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Parallel Gripper"
+          }          
+      ]
+     },
+     {
+      "Model Name": "EGS",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_7p5a27blj90n15iufl2q21fb4m/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1Pp68lXfhCXLbJgvu6kwWpDgLesu4HEjC/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }  ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Rotary Gripper"
+          }                
+      ]
+     },
+     {
+      "Model Name": "GSW-V",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_tconnpggrl7pjfnk0pqmogsm69/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1cn7c6EU-8Noftq4g0vmtqDvqZorVYIXr/view"
+          }   ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }     ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Vacuum Gripper"
+          }            
+      ]
+     },
+     {
+      "Model Name": "KVG120C",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/kvgc_products.jpg?ts=8dbbcb174ed5000&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1omeJYrfQs-KdAf2bSsNOaBxIhHsSCE2S/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Kenos"
+          }  ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Area Gripper"
+          }          
+      ]
+     },
+     {
+      "Model Name": "EGM",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_mjd7rveo7p1s53pm2c1fiucf6s/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1ItAYOOSc-ak8y6_il3tAOuO2VteLVgdY/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Magnetic Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "ADHESO G-3-50-H",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_60tqb4081l4q1c968e420vsm2h/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1Yba9G9y6khQKcwXlv27DNoIUJ8DvjOMQ/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Adhesive gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "SGW",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://d16vz4puxlsxm1.cloudfront.net/image/076200133045-Prod/image_0su8rv2pcp2lrb315qsvhr231n/-FWEBP-B2000"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1x86sQcLUrRUn0LnFE_Soe59ub3lKpl8z/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schunk"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Angular Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "SGM-HPm",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://pimmedia.schmalz.com/assets/Produktfamilienbild/PF_PGE-06081.jpg"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1JnRzqAux7TMzeHoGhdKrLS_5uD5fTtdK/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schmalz"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Magnetic Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "ZLW",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://media.schmalz.com/MAM_Library2/Products/Anwendungsbilder/Vacuum%20Automation/Vacuum%20Systems/Applications/Logistics/72b3f88e1825_Picture_VA-CO_ZLW_2023_02.jpg"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/16wRR0l6SMffP5L340OBqPsMtehLTPAoK/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schmalz"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Layer Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "PXT",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://media.schmalz.com/MAM_Library2/Products/Anwendungsbilder/0_/059/05954/ec4efe7c477c_A_PGE-05954_001.jpg"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1ezA12gDOE-t_Yuql-W7M4xCUjO8wINbD/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Schmalz"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Vacuum"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Modular Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "LBG-50",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/lbg-50-productcard.jpg?ts=8dbbcbb2fce1b80&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1xwIalZLRZovZ_9dXoGp3cGD3js_K2IOn/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Piab"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Bag Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "piSOFTGRIP",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.piab.com/globalassets/inriver-ipmc/resources/pisoftgirp-fittings-small.png?ts=8dbbcb30ad5aa80&width=556&height=400&format=webp"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": ""
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Piab"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Soft Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "DBG",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.destaco.com/assets/image/products/end_effectors/DBG-50_Bag_Gripper-1202.tif.thumb.1280.1280.png.rendition.src.m.1637154566107.png"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/14pmbOtm7A_-m7jO5dOot5C8oVbxpqXqC/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Destaco"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Bag Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "84L2-1",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://www.destaco.com/assets/image/products/sheet_metal_grippers/84L2-11-Sheet-Metal-Gripper-3593.tif.thumb.1280.1280.png.rendition.src.m.1637092899616.png"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1UHGh3EzIR4byLJhjywrQTSKpitCfWnpN/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Destaco"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Sheet Metal Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "DPE-400",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://s3.amazonaws.com/assetbank-us-east-1-repurposed/destaco_a0a4525ffa98f8c42a1a29b3ae26cb32%2F1dc%2Fh5P6L9CBa9HCbQVht79A8qdLSMWeEIwr.jpg"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/14ucfMWls90uuCZIyQmMDrRTuejqkPzSf/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Destaco"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Parallel Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "Soft Gripper",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2020-04/Product_Subpage_Picture_SG.jpg?h=2a479378&itok=HMs-MG34"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1-v6CX8WKYBXROAQ-r2ColI0jWki7oFjF/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Soft Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "Gecko Gripper",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2023-06/onrobot_gecko_gripper.png?h=2a479378&itok=ZgMSMBKK"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1c2ibSC1xzzmTV06lHaogjUUKAMDnDgGm/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Gecko Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "2FGP-20",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2021-12/onrobot_2fgp20_gripper.jpg?h=2a479378&itok=QyntRHO0"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1VQ2YWm-Dz1IP6yAT7piZB6m5qv5FMMZL/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Electric Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "VG-10",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2019-06/VG10%20CROSS.jpg?h=2a479378&itok=Rx1h7gmk"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1eEvBonupttIJaJm-ZYj0w1HkdIXflFvU/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Vacuum Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "MG-10",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2021-03/mg10_product%20card_0.jpg?h=2a479378&itok=hkkCfwi3"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1rO1tC6ibOweZy-VgnTjaBUBiP3X-i6h5/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Magnetic Gripper" 
+          }  
+              
+      ]
+     },
+     {
+      "Model Name": "3FG-15",
+      "Data": [
+        {
+          "Property": "ImageURL",
+          
+          "Value": "https://onrobot.com/sites/default/files/styles/500x500/public/2020-02/3FG15_Picture_Product_Subpage_0.jpg?h=2a479378&itok=YiDnwJoq"
+        },
+          {
+            "Property": "Datasheet",
+            
+            "Value": "https://drive.google.com/file/d/1ZAo9cpmR6iwcxprv79fqXEF_Tb-JOfeG/view"
+          }  ,
+          {
+            "Property": "ManufactureName",
+            
+            "Value": "Onrobot"
+          }         ,
+          {
+            "Property": "Type",
+            
+            "Value": "Electric"
+          }  ,
+          {
+            "Property": "Category",
+            
+            "Value": "Three finger gripper" 
+          }  
+              
+      ]
+     }
+]
