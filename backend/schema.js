@@ -1,14 +1,15 @@
 const mongoose = require('mongoose');
 
-const gripperDataSchema = new mongoose.Schema({
+const GripperDataSchema = new mongoose.Schema({
   Property: String,
-  
-  Value: mongoose.Schema.Types.Mixed,
+  Value: String,
 });
 
-const gripperSchema = new mongoose.Schema({
+const GripperSchema = new mongoose.Schema({
   "Model Name": String,
-  Data: [gripperDataSchema],
+  Data: [GripperDataSchema],
 });
 
-module.exports = mongoose.model('Gripper', gripperSchema);
+const Gripper = mongoose.model('Gripper', GripperSchema);
+
+module.exports = Gripper;
